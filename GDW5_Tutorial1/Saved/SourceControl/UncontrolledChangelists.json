@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NW/AC1QJ84JM2VO2H7AOWV9B4.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Inouts.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Inouts.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Move.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/NewPlayer.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Look.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Jump.uasset"
 			]
 		}
 	]
