@@ -7,13 +7,35 @@
 			"files": [
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NW/AC1QJ84JM2VO2H7AOWV9B4.uasset",
-				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Inouts.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Inouts.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Move.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/NewPlayer.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Look.uasset",
-				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Jump.uasset"
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Input/Jump.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Turret.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/NC/83V0ODMSO4KP1XZAUW5YPK.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape.umap",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Grass.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Blue_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Green_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Red_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/rocks_normal.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Blend_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/dirt.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Dirt_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/dirt_normal.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/grass.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/grass_normal.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/LazyTextures/rocks.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Rocks_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/ShortGrass_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Stone_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/TallGrass_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Layer_1_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/FirstPerson/Maps/Landscape_sharedassets/Layer_0_LayerInfo.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/UN/LGJLTQ8IIN6K1STYM4CM24.uasset",
+				"C:/Users/ryann/GDW_Repo/GDW5_Tutorial1/Content/Inouts.uasset"
 			]
 		}
 	]

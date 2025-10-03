@@ -1,0 +1,5 @@
+Breadcrumbs 'RHIThread'
+ - RayTracingScene
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 85046
